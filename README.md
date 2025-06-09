@@ -31,8 +31,7 @@ spacecraft-attitude-control/
 ├── archives/                    # Educational development files
 │   ├── main.py                 # Core mathematical functions and analysis
 │   └── pid.py                  # PID controller implementation and testing
-├── .github/workflows/          # Automated deployment
-│   └── deploy-demo.yml         # GitHub Pages deployment configuration
+├── documentation/              # Jupyter Notebook
 └── docs/                       # Additional documentation
     ├── MATHEMATICAL_FOUNDATIONS.md
     ├── CONTROL_THEORY.md
