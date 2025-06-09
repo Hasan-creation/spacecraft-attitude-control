@@ -212,12 +212,6 @@ The collaborative approach ensured complete understanding of every system aspect
 - **[Physics Simulation](./docs/PHYSICS_SIMULATION.md)** - Spacecraft dynamics and environmental modeling
 - **[User Guide](./docs/USER_GUIDE.md)** - Comprehensive operational instructions and examples
 
-## 🌐 Online Demonstration
-
-Experience the simulation directly in your browser: **[Live Demo](https://teyk0o.github.io/spacecraft-attitude-control)**
-
-*The web version provides an interactive interface showcasing the control system capabilities. For full physics simulation and real-time performance analysis, run the Python implementation locally.*
-
 ## 📄 License
 
 This project is licensed under the MIT License, encouraging educational use, modification, and distribution. See the [LICENSE](LICENSE) file for complete details.
