@@ -39,10 +39,8 @@ jobs:
       run: |
         mkdir -p web-demo
         
-        # Copy Python files
+        # Copy only the demo file
         cp demos/satellite_visualization.py web-demo/
-        cp src/core/*.py web-demo/
-        cp src/utils/*.py web-demo/
         
         # Create HTML wrapper for the demo
         cat > web-demo/index.html << 'EOF'
